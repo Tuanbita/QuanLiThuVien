@@ -1,0 +1,89 @@
+c:\users\hiếu học\documents\visual studio 2013\Projects\QLTV\QLTV\bin\Debug\QLTV.exe.config
+c:\users\hiếu học\documents\visual studio 2013\Projects\QLTV\QLTV\bin\Debug\QLTV.exe
+c:\users\hiếu học\documents\visual studio 2013\Projects\QLTV\QLTV\bin\Debug\QLTV.pdb
+c:\users\hiếu học\documents\visual studio 2013\Projects\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+c:\users\hiếu học\documents\visual studio 2013\Projects\QLTV\QLTV\obj\Debug\QLTV.Frm_DangNhap.resources
+c:\users\hiếu học\documents\visual studio 2013\Projects\QLTV\QLTV\obj\Debug\QLTV.Frm_Main.resources
+c:\users\hiếu học\documents\visual studio 2013\Projects\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+c:\users\hiếu học\documents\visual studio 2013\Projects\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+c:\users\hiếu học\documents\visual studio 2013\Projects\QLTV\QLTV\obj\Debug\QLTV.exe
+c:\users\hiếu học\documents\visual studio 2013\Projects\QLTV\QLTV\obj\Debug\QLTV.pdb
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe.config
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.exe
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.pdb
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_DangNhap.resources
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_DocGia.resources
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_Main.resources
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+D:\1-Study\4-HK6\ThucTapNhom\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_TTBD.resources
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe.config
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.exe
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.pdb
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_DangNhap.resources
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_DocGia.resources
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_Main.resources
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_TTBD.resources
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_Sach.resources
+E:\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_Sach_Details.resources
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_DangNhap.resources
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_DocGia.resources
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_Main.resources
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_Sach.resources
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_TTBD.resources
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_Sach_Details.resources
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_MuonTra.resources
+C:\Users\Hien\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_TTMuonTra.resources
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.exe
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\bin\Debug\QLTV.pdb
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_DangNhap.resources
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_DocGia.resources
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_Main.resources
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_MuonTra.resources
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_QLND.resources
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_Sach.resources
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_TTBD.resources
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_TTMuonTra.resources
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.Frm_Sach_Details.resources
+C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+G:\QLTV\QLTV\bin\Debug\QLTV.exe.config
+G:\QLTV\QLTV\obj\Debug\QLTV.exe
+G:\QLTV\QLTV\obj\Debug\QLTV.pdb
+G:\QLTV\QLTV\bin\Debug\QLTV.exe
+G:\QLTV\QLTV\bin\Debug\QLTV.pdb
+G:\QLTV\QLTV\obj\Debug\QLTV.csprojResolveAssemblyReference.cache
+G:\QLTV\QLTV\obj\Debug\QLTV.Frm_DangNhap.resources
+G:\QLTV\QLTV\obj\Debug\QLTV.Frm_DocGia.resources
+G:\QLTV\QLTV\obj\Debug\QLTV.Frm_Main.resources
+G:\QLTV\QLTV\obj\Debug\QLTV.Frm_MuonTra.resources
+G:\QLTV\QLTV\obj\Debug\QLTV.Frm_QLND.resources
+G:\QLTV\QLTV\obj\Debug\QLTV.Frm_Sach.resources
+G:\QLTV\QLTV\obj\Debug\QLTV.Frm_TTBD.resources
+G:\QLTV\QLTV\obj\Debug\QLTV.Frm_TTMuonTra.resources
+G:\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+G:\QLTV\QLTV\obj\Debug\QLTV.Frm_Sach_Details.resources
+G:\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
+C:\Users\Tuanbita\Desktop\ThuVien\New folder\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\Tuanbita\Desktop\ThuVien\New folder\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\Tuanbita\Desktop\ThuVien\New folder\QLTV\QLTV\obj\Debug\QLTV.pdb
