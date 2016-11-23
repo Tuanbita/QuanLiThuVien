@@ -90,3 +90,6 @@ C:\Users\Tuanbita\Desktop\ThuVien\New folder\QLTV\QLTV\obj\Debug\QLTV.pdb
 C:\Users\Tuanbita\Documents\GitHub\QuanLiThuVien\QLTV\QLTV\bin\Debug\QLTV.exe.config
 C:\Users\Tuanbita\Documents\GitHub\QuanLiThuVien\QLTV\QLTV\obj\Debug\QLTV.exe
 C:\Users\Tuanbita\Documents\GitHub\QuanLiThuVien\QLTV\QLTV\obj\Debug\QLTV.pdb
+D:\HOC TAP\ky 6\Thuc tap nhom\THUCTAPNHOM2\QuanLiThuVien\QLTV\QLTV\bin\Debug\QLTV.exe.config
+D:\HOC TAP\ky 6\Thuc tap nhom\THUCTAPNHOM2\QuanLiThuVien\QLTV\QLTV\obj\Debug\QLTV.exe
+D:\HOC TAP\ky 6\Thuc tap nhom\THUCTAPNHOM2\QuanLiThuVien\QLTV\QLTV\obj\Debug\QLTV.pdb
