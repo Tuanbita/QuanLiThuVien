@@ -29,6 +29,10 @@
         private void InitializeComponent()
         {
             this.dgv = new System.Windows.Forms.DataGridView();
+            this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MatKhau = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.PhanQuyen = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MaBD = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btn_Them = new System.Windows.Forms.Button();
             this.btn_Sua = new System.Windows.Forms.Button();
             this.btn_Xoa = new System.Windows.Forms.Button();
@@ -41,10 +45,6 @@
             this.rdb_MatKhau = new System.Windows.Forms.RadioButton();
             this.rdb_Quyen = new System.Windows.Forms.RadioButton();
             this.btn_TimKiem = new System.Windows.Forms.Button();
-            this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.MatKhau = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.PhanQuyen = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.MaBD = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgv)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -52,7 +52,7 @@
             // dgv
             // 
             this.dgv.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCellsExceptHeader;
-            this.dgv.BackgroundColor = System.Drawing.SystemColors.Highlight;
+            this.dgv.BackgroundColor = System.Drawing.Color.IndianRed;
             this.dgv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgv.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.ID,
@@ -62,8 +62,36 @@
             this.dgv.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.dgv.Location = new System.Drawing.Point(0, 143);
             this.dgv.Name = "dgv";
-            this.dgv.Size = new System.Drawing.Size(470, 296);
+            this.dgv.Size = new System.Drawing.Size(541, 296);
             this.dgv.TabIndex = 0;
+            // 
+            // ID
+            // 
+            this.ID.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.ID.DataPropertyName = "ID";
+            this.ID.HeaderText = "Tài khoản";
+            this.ID.Name = "ID";
+            // 
+            // MatKhau
+            // 
+            this.MatKhau.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.MatKhau.DataPropertyName = "MatKhau";
+            this.MatKhau.HeaderText = "Mật Khẩu";
+            this.MatKhau.Name = "MatKhau";
+            // 
+            // PhanQuyen
+            // 
+            this.PhanQuyen.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.PhanQuyen.DataPropertyName = "PhanQuyen";
+            this.PhanQuyen.HeaderText = "Phân Quyền";
+            this.PhanQuyen.Name = "PhanQuyen";
+            // 
+            // MaBD
+            // 
+            this.MaBD.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
+            this.MaBD.DataPropertyName = "MaBD";
+            this.MaBD.HeaderText = "Mã bạn đọc";
+            this.MaBD.Name = "MaBD";
             // 
             // btn_Them
             // 
@@ -90,7 +118,7 @@
             // btn_Xoa
             // 
             this.btn_Xoa.BackColor = System.Drawing.Color.Gold;
-            this.btn_Xoa.Location = new System.Drawing.Point(192, 19);
+            this.btn_Xoa.Location = new System.Drawing.Point(203, 20);
             this.btn_Xoa.Name = "btn_Xoa";
             this.btn_Xoa.Size = new System.Drawing.Size(75, 23);
             this.btn_Xoa.TabIndex = 3;
@@ -101,7 +129,7 @@
             // txt_LamMoi
             // 
             this.txt_LamMoi.BackColor = System.Drawing.Color.Gold;
-            this.txt_LamMoi.Location = new System.Drawing.Point(282, 19);
+            this.txt_LamMoi.Location = new System.Drawing.Point(306, 19);
             this.txt_LamMoi.Name = "txt_LamMoi";
             this.txt_LamMoi.Size = new System.Drawing.Size(75, 23);
             this.txt_LamMoi.TabIndex = 4;
@@ -112,7 +140,7 @@
             // btn_Thoat
             // 
             this.btn_Thoat.BackColor = System.Drawing.Color.Gold;
-            this.btn_Thoat.Location = new System.Drawing.Point(372, 19);
+            this.btn_Thoat.Location = new System.Drawing.Point(424, 19);
             this.btn_Thoat.Name = "btn_Thoat";
             this.btn_Thoat.Size = new System.Drawing.Size(75, 23);
             this.btn_Thoat.TabIndex = 5;
@@ -130,13 +158,13 @@
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Top;
             this.groupBox1.Location = new System.Drawing.Point(0, 0);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(470, 49);
+            this.groupBox1.Size = new System.Drawing.Size(541, 49);
             this.groupBox1.TabIndex = 6;
             this.groupBox1.TabStop = false;
             // 
             // txt_TimKiem
             // 
-            this.txt_TimKiem.Location = new System.Drawing.Point(125, 68);
+            this.txt_TimKiem.Location = new System.Drawing.Point(48, 68);
             this.txt_TimKiem.Name = "txt_TimKiem";
             this.txt_TimKiem.Size = new System.Drawing.Size(168, 20);
             this.txt_TimKiem.TabIndex = 7;
@@ -177,7 +205,7 @@
             // btn_TimKiem
             // 
             this.btn_TimKiem.BackColor = System.Drawing.Color.LawnGreen;
-            this.btn_TimKiem.Location = new System.Drawing.Point(326, 68);
+            this.btn_TimKiem.Location = new System.Drawing.Point(251, 68);
             this.btn_TimKiem.Name = "btn_TimKiem";
             this.btn_TimKiem.Size = new System.Drawing.Size(75, 23);
             this.btn_TimKiem.TabIndex = 11;
@@ -185,40 +213,12 @@
             this.btn_TimKiem.UseVisualStyleBackColor = false;
             this.btn_TimKiem.Click += new System.EventHandler(this.btn_TimKiem_Click);
             // 
-            // ID
-            // 
-            this.ID.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.ID.DataPropertyName = "ID";
-            this.ID.HeaderText = "Tài khoản";
-            this.ID.Name = "ID";
-            // 
-            // MatKhau
-            // 
-            this.MatKhau.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.MatKhau.DataPropertyName = "MatKhau";
-            this.MatKhau.HeaderText = "Mật Khẩu";
-            this.MatKhau.Name = "MatKhau";
-            // 
-            // PhanQuyen
-            // 
-            this.PhanQuyen.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.PhanQuyen.DataPropertyName = "PhanQuyen";
-            this.PhanQuyen.HeaderText = "Phân Quyền";
-            this.PhanQuyen.Name = "PhanQuyen";
-            // 
-            // MaBD
-            // 
-            this.MaBD.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.MaBD.DataPropertyName = "MaBD";
-            this.MaBD.HeaderText = "Mã bạn đọc";
-            this.MaBD.Name = "MaBD";
-            // 
             // Frm_QLND
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Highlight;
-            this.ClientSize = new System.Drawing.Size(470, 439);
+            this.BackColor = System.Drawing.Color.IndianRed;
+            this.ClientSize = new System.Drawing.Size(541, 439);
             this.Controls.Add(this.btn_TimKiem);
             this.Controls.Add(this.rdb_Quyen);
             this.Controls.Add(this.rdb_MatKhau);

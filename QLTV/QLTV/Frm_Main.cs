@@ -84,7 +84,7 @@ namespace QLTV
 
         private void trợGiúpToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:\Users\Hiếu Học\Documents\GitHub\Quan_Ly_TV\QLTV\HDSDSP.docx");
+            Process.Start(@"C:\Users\Tuanbita\Documents\GitHub\QuanLiThuVien\HDSD.docx");
         }
 
         private void quảnLýNgườiDùngToolStripMenuItem_Click(object sender, EventArgs e)

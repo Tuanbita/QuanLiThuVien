@@ -87,3 +87,6 @@ G:\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.Cache
 C:\Users\Tuanbita\Desktop\ThuVien\New folder\QLTV\QLTV\bin\Debug\QLTV.exe.config
 C:\Users\Tuanbita\Desktop\ThuVien\New folder\QLTV\QLTV\obj\Debug\QLTV.exe
 C:\Users\Tuanbita\Desktop\ThuVien\New folder\QLTV\QLTV\obj\Debug\QLTV.pdb
+C:\Users\Tuanbita\Documents\GitHub\QuanLiThuVien\QLTV\QLTV\bin\Debug\QLTV.exe.config
+C:\Users\Tuanbita\Documents\GitHub\QuanLiThuVien\QLTV\QLTV\obj\Debug\QLTV.exe
+C:\Users\Tuanbita\Documents\GitHub\QuanLiThuVien\QLTV\QLTV\obj\Debug\QLTV.pdb
